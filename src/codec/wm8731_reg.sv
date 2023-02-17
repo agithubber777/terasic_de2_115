@@ -1,15 +1,8 @@
 //==============================================================================
-// Copyright (c) 2022 agithubber777
+// Copyright (C) 2023 agithubber777
 //------------------------------------------------------------------------------
-// Module      : wm8731_reg
+// File        : wm8731_reg.sv
 // Description : WM8731 Config Register Control
-// Author      : agithubber777
-// Created     : 2022/05/31
-//------------------------------------------------------------------------------
-// Version Control Log:
-//
-// File$
-// Revision$
-// Author$
-// Date$
+// Author      : agithubber777 (agit.hubber@gmail.com)
+// Created     : 2023/02/17
 //==============================================================================
