@@ -1,11 +1,12 @@
 //==============================================================================
-// Copyright (C) 2023 agithubber777
+// Copyright (C) 2022 agithubber777
 //------------------------------------------------------------------------------
 // File        : wm8731_data.sv
 // Description : WM8731 Data Interface
-// Author      : agithubber777 (agit.hubber@gmail.com)
+// Author      : agithubber777  (agit.hubber@gmail.com)
 // Created     : 2022/05/31
 //==============================================================================
+
 `define I2S   1'b1
 `define PCM   1'b0
 

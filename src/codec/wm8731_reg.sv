@@ -1,11 +1,12 @@
 //==============================================================================
-// Copyright (C) 2023 agithubber777
+// Copyright (C) 2022 agithubber777
 //------------------------------------------------------------------------------
 // File        : wm8731_reg.sv
 // Description : WM8731 Config Register Control
 // Author      : agithubber777 (agit.hubber@gmail.com)
 // Created     : 2022/05/31
 //==============================================================================
+
 `include "wm8731_def.svh"
 
 module wm8731_reg #(

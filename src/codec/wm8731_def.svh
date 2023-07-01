@@ -1,11 +1,12 @@
 //==============================================================================
-// Copyright (C) 2023 agithubber777
+// Copyright (C) 2022 agithubber777
 //------------------------------------------------------------------------------
 // File        : wm8731_def.svh
 // Description : WM8731 defines
 // Author      : agithubber777 (agit.hubber@gmail.com)
 // Created     : 2022/05/31
 //==============================================================================
+
 // Configuration Interface parameters
 `define   WM8731_I2C_ADDR 7'b0011010  // WM8731 I2C Slave Address
 
